@@ -74,6 +74,9 @@ que.enqueue(100);
 que.print();
 que.deQueue();
 System.out.println("::::");
+
+que.deQueue();
 que.print();
+
     }
 }
